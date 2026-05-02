@@ -35,3 +35,25 @@ The application is integrated with the following endpoints:
 - **Logging**: `POST http://20.207.122.201/evaluation-service/logs`
 
 *Note: Access Code `QkbpxH` is required for registration.*
+
+## Application Screenshots
+
+<div align="center">
+  <img src="assets/Screenshot 2026-05-02 124806.png" width="800" alt="App Screenshot 1" />
+  <br/><br/>
+  <img src="assets/Screenshot 2026-05-02 124828.png" width="800" alt="App Screenshot 2" />
+  <br/><br/>
+  <img src="assets/Screenshot 2026-05-02 124844.png" width="800" alt="App Screenshot 3" />
+  <br/><br/>
+  <img src="assets/Screenshot 2026-05-02 124901.png" width="800" alt="App Screenshot 4" />
+  <br/><br/>
+  <img src="assets/Screenshot 2026-05-02 124915.png" width="800" alt="App Screenshot 5" />
+  <br/><br/>
+  <img src="assets/Screenshot 2026-05-02 124930.png" width="800" alt="App Screenshot 6" />
+  <br/><br/>
+  <img src="assets/Screenshot 2026-05-02 124948.png" width="800" alt="App Screenshot 7" />
+  <br/><br/>
+  <img src="assets/Screenshot 2026-05-02 125005.png" width="800" alt="App Screenshot 8" />
+  <br/><br/>
+  <img src="assets/Screenshot 2026-05-02 125018.png" width="800" alt="App Screenshot 9" />
+</div>
