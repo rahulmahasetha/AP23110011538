@@ -53,7 +53,7 @@ async function Log(stack, level, pkg, message) {
     });
     return response.ok;
   } catch (error) {
-    // Fail silently - do not use console.log per evaluation constraints
+   
     return false;
   }
 }
